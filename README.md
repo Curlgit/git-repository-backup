@@ -27,7 +27,7 @@ The tool seamlessly connects and fetches live repositories from the following pl
 To download the repository and run the automated installation script, execute the following commands in your terminal:
 
 ```bash
-git clone https://github.com/Fr/git-repository-backup.git
+git clone https://github.com/Curlgit/git-repository-backup.git
 ```
 ```bash
 cd git-repository-backup
